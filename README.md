@@ -26,9 +26,9 @@ Our work successfully demonstrates a viable method for correcting systematic ERA
 
 | Metric | ERA5 Raw | ERA5 + RF Correction | Reduction |
 | :--- | :---: | :---: | :---: |
-| **RMSE (°C)** | 3.01 | 1.94 | **-35.5%** |
-| **MAE (°C)** | 2.29 | 1.26 | **-45.0%** |
-| **Bias (°C)** | 1.72 | 0.12 | **-93.0%** |
+| **RMSE (°C)** | 3.01 | 1.94 | **35.5%** |
+| **MAE (°C)** | 2.29 | 1.26 | **45.0%** |
+| **Bias (°C)** | 1.72 | 0.12 | **93.0%** |
 
 
 ## Methodology
