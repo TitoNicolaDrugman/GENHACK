@@ -24,7 +24,7 @@ Our work successfully demonstrates a viable method for correcting systematic ERA
 - **Bias Correction:** The model effectively corrects the systematic underestimation of temperature in urban areas, reducing the average bias from **1.72°C to just 0.12°C**.
 - **Key Predictive Features:** Feature importance analysis revealed that **topographical and geographical factors (elevation, latitude, longitude)** are the strongest predictors of temperature bias, followed by seasonality and the percentage of urban land cover.
 
-| Metric | ERA5 Raw | ERA5 + RF Correction | Improvement |
+| Metric | ERA5 Raw | ERA5 + RF Correction | Reduction |
 | :--- | :---: | :---: | :---: |
 | **RMSE (°C)** | 3.01 | 1.94 | **-35.5%** |
 | **MAE (°C)** | 2.29 | 1.26 | **-45.0%** |
